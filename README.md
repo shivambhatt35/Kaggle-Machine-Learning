@@ -1,11 +1,11 @@
-# 🤖 Kaggle Machine Learning
+# Kaggle Machine Learning
 
 Welcome to the repository for the **[Kaggle Intro to Machine Learning Course](https://www.kaggle.com/learn/intro-to-machine-learning)**!  
 This repo showcases hands-on projects and exercises covering foundational ML concepts with real-world datasets.
 
 ---
 
-## 📚 Course Summary
+## Course Summary
 
 Completed the **Intro to Machine Learning** course on Kaggle, gaining practical experience in:
 
@@ -15,6 +15,6 @@ Completed the **Intro to Machine Learning** course on Kaggle, gaining practical 
 - ✅ Decision Trees & Random Forests
 - ✅ Handling Missing Values
 - ✅ Overfitting & Underfitting
-
+- ✅ Clustering 
 ---
 
